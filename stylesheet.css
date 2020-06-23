@@ -89,7 +89,7 @@ body {
   
   .top-wrapper {
     padding: 200px 0 100px 0;
-    background-image: url(/img/Topwrap.jpg);
+    background-image: url(Topwrap.jpg);
     background-size: cover;
     background-position: bottom;
     color: white;
@@ -180,7 +180,7 @@ body {
 
 .split.left {
     width: 50%;
-    background-image: url(/img/lombok.jpg);
+    background-image: url(lombok.jpg);
     background-size: cover;
     background-position: bottom;
 }
